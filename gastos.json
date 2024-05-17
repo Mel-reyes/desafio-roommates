@@ -1,0 +1,10 @@
+{
+  "gastos": [
+    {
+      "id": "b93022fc-ea8c-4394-8091-c10aeb1e90a7",
+      "roommate": "Charlotte Meusel",
+      "descripcion": "Articulos de limpieza",
+      "monto": 15000
+    }
+  ]
+}
