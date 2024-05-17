@@ -1,4 +1,4 @@
-# Desafío - Desafío - Roommates
+# Desafío - Roommates
 ## Descripción
 En esta prueba deberás crear un servidor con Node que sirva una interfaz HTML que tendrás
 a disposición en el Apoyo Desafío - Roommates y cuya temática está basada en el registro
